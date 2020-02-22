@@ -1,0 +1,78 @@
+Website Assignment
+
+
+You will create a website about the main topics of this course.  Use Wix, Google Sites or something of your choice.
+
+
+The following topics are related to the course.  Create the following pages (links / tabs) on your website.  
+    On each page, add content that defines / describes that particular topic.  Include relevant images.
+
+
+* Basic Skills - Briefly discuss the skills that may be needed (or beneficial to) someone who is in a job somehow related to tech design.
+    * creative mindset
+    * Artistic vision
+    * Ability to work with a team
+    * Knowledge in:
+        * HTML
+        * CSS
+        * JS
+
+
+* Product Design - What is product design?  Define and discuss.  What do these people do?  List some companies involved with tech design in some capacity and give examples.
+    * What is Product Design?
+        * Product Design is making a product to be sold by a company to its customers.
+            Product design is a long process of narrowing down an array of ideas into
+            one idea and then, making that idea a reality.
+    * Companies associated with product design
+        * Goji Labs: founded in 2014. Has a team of 3 employees who specialize in web, and mobile development
+        * Grappus Technologies: product design and mobile developer based in India with an office in Atlanta with 10+ employees.
+        * Sealab LLC: design service agency from Austin, TX. Founded in 2014, the employ five staff members experienced in UI, product and graphic design.
+
+
+* 2D CAD - Define, give an example and discuss the software and how it is used in tech design.
+    * 2D CAD, stands for "2-Dimensional Computer-Aided Design" is a design software used to make two-dimensional layouts.
+        2D CAD has many uses, mainly creating vector-based layouts.
+
+    * How is 2D CAD used in tech design?
+        * 2D CAD allows engineers to create 2D vector-based 2D drawings, mockups of conceptual designs, within the computer.
+            2D CAD is essential for engineers, because it saves time, money and resources spent on a project,
+            and it decreases the number of measurement errors.
+
+
+* 3D CAD - Same as above.
+    * 3D CAD, like 2D CAD, stands for "3-Dimensional Computer-Aided 
+        Design". It is a program used to create 3D-models of objects, such as, chairs, tables, 
+        phones, computers, humans, buildings, anything. It is also used to animate said models, 
+        like animating two humans fightigs. One of the most popular 3D CAD software used today is 
+        called Maya.
+    * 3D CAD allows designers to create 3D models that they can animate, or use as a prop for a scene or video-game.
+        Video game studios like Valve, make their own 3D models that they use in their games such as: CS:GO, Half-Life,
+        Portal, etc.
+
+
+* Design and How it Affects Society - What impact does design tech have on our lives today and in the future?
+    * Design surrounds us, from computers, to phones, books, cabinets, logos. Design is everywhere. Not only that,
+    but design is used by many people to express their ideas, and identities.
+
+
+* Technology and the Impact on the Environment - Include some information as we discussed earlier in the course.
+    * Direct Impact: loss of land and loss of vegetation as a result.
+    * Emissions Impact: emissions
+
+
+* Design Process - Focus most of your time and energy on this topic.  You will need to research it using the internet (just Google “Design Process”).
+    If you want to use more than one page for this you may. Include a detailed breakdown of each step.
+    Include an image (which you may copy from the internet but cite (name/list) the source).
+    Explain each step in your own point form words (do not copy everything from the website that you found the information on).
+
+* Fix skills indentation for sub-bullet points
+
+    **** sources
+
+    https://themanifest.com/product-design/agencies
+    https://techterms.com/definition/cad
+    https://medicine-man.net/2017/11/07/how-does-design-effect-our-lives/
+    https://www.ukessays.com/essays/european-studies/technology-has-bad-effects-on-environment.php
+    https://discoverdesign.org/handbook
+    https://discoverdesign.org/sites/default/files/inline-images/CAC-Design-Process-Chart_900x867px-01.jpg
+    https://www.cultofmac.com/488518/rare-iphone-prototypes-hap-plain/
