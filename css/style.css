@@ -121,7 +121,7 @@ li ul {
 }
 
 .picture#design-process {
-	background-image: url('../assets/img/design-process.jpg') !important;
+	background-image: url('../assets/img/design-process.jpg');
 	background-position: 50% 50%;
 }
 .body#design-process {
